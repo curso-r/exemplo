@@ -19,13 +19,3 @@ encontrar_pior_ano_time <- function(time) {
     dplyr::rename("time" = quem_ganhou)
 }
 
-
-
-# Verificação -------------------------------------------------------------
-
-# Use a função para ver se ela funciona!
-
-# Qual é a temporada em que o Flamengo ganhou menos partidas? O resultado
-# esperado é 2010!
-
-# encontrar_pior_ano_time(time = "Flamengo")
