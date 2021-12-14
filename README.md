@@ -4,6 +4,8 @@
 # exemplo
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/curso-r/exemplo/workflows/R-CMD-check/badge.svg)](https://github.com/curso-r/exemplo/actions)
 <!-- badges: end -->
 
 The goal of exemplo is to …
